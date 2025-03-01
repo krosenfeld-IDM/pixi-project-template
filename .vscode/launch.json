@@ -1,0 +1,3 @@
+{
+    "python": "${workspaceFolder}/.pixi/envs/default/bin/python",
+}
