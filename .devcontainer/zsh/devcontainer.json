@@ -1,5 +1,5 @@
 {
-    "name": "Pixi Sandbox w/ zsh",
+    "name": "zsh",
     "build": {
       "dockerfile": "Dockerfile"
     },
